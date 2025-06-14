@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm luke and you have found my github repo! here you will find firmware binaries for my projects and products, please navigate to the "fw update" link found in your product's manual for a one click web based updater!
 
 <!--
 **design-lukem/design-lukem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
